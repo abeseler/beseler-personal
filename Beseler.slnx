@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/Beseler.ServiceDefaults/Beseler.ServiceDefaults.csproj" />
+  <Project Path="src/Beseler.Web/Beseler.Web.csproj" />
+</Solution>
